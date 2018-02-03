@@ -4,7 +4,7 @@
 			<div class='container-content' style='min-height:50px;'>
 				<div class='header-content'>
 					<h4><b>
-					TAMBAH KABUPATEN/KOTA
+					TAMBAH PROVINSI
 					</b></h4>
 				</div>
 			</div>

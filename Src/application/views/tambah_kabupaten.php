@@ -11,7 +11,7 @@
 
 			<div class='container-content' style='min-height:450px;'>
 				<div class='body-content'>
-					<form class='form-horizontal' method='POST' action='".base_url()."index.php/kabupatenKota/prosesTambah'>
+					<form class='form-horizontal' method='POST' action='".base_url()."index.php/Kabupaten/prosesTambah'>
 						<div class='form-group'>
 					        <label for='inputNamaKabupaten' class='control-label col-xs-2'> Nama Kabupaten</label>
 					        <div class='col-xs-10'>
